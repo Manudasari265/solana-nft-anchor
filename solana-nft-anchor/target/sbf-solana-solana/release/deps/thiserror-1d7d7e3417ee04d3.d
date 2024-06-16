@@ -1,0 +1,10 @@
+/home/manoj-dasari/projects/solana-nft-anchor/programs/solana-nft-anchor/target/sbf-solana-solana/release/deps/libthiserror-1d7d7e3417ee04d3.rmeta: /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/lib.rs /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/aserror.rs /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/display.rs /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/provide.rs
+
+/home/manoj-dasari/projects/solana-nft-anchor/programs/solana-nft-anchor/target/sbf-solana-solana/release/deps/libthiserror-1d7d7e3417ee04d3.rlib: /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/lib.rs /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/aserror.rs /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/display.rs /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/provide.rs
+
+/home/manoj-dasari/projects/solana-nft-anchor/programs/solana-nft-anchor/target/sbf-solana-solana/release/deps/thiserror-1d7d7e3417ee04d3.d: /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/lib.rs /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/aserror.rs /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/display.rs /home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/provide.rs
+
+/home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/lib.rs:
+/home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/aserror.rs:
+/home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/display.rs:
+/home/manoj-dasari/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.61/src/provide.rs:
